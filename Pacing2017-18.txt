@@ -1,0 +1,54 @@
+Fall Semester
+(cover ifs, loops, variables and functions first two weeks)
+Sample Assignment 8/31/2017 
+Quiz  9/1/2017 
+Math.random() worksheet  9/8/2017 
+Lightning  9/8/2017 
+Nested Loops worksheet  9/15/2017 
+Practice with classes worksheet  9/15/2017 
+Dice  9/22/2017 
+Quiz  9/22/2017 
+Arrays of Objects Worksheet  9/29/2017 
+Chemotaxis  9/29/2017 
+Quiz  10/12/2017 
+Starfield 10/13/2017 
+Encapsulation worksheet  10/17/2017 
+Old MacDonald  10/20/2017 
+Inheritance Worksheet 10/20/2017 
+Quiz  10/27/2017 
+Asteroids Part 1: Spaceship  11/3/2017 
+Abstract classes worksheet  11/3/2017 
+Asteroids Part 2: Adding an Asteroid class  11/9/2017
+Quiz (Quiz)  11/9/2017
+ArrayList worksheet 11/17/2017 
+Asteroids Part 3 12/1/2017 
+Quiz  12/1/2017 
+For each worksheet 12/1/2017 
+Asteroids Part 4 12/18/2017
+Final Exam 12/18/2017 
+
+
+Spring Semester
+Google Billboard  1/12/2018 
+Pig Latin 1/19/2018 
+Quiz 1/19/2018 
+Palindrome  1/26/2018 
+Handles Pointers References Worksheet  1/26/2018 
+Quiz  2/2/2018 
+Sierpinski Triangle 2/2/2018 
+Recursion Worksheet #1  2/2/2018 
+Original Fractal  2/9/2018 
+Quiz 2/15/2018 
+Recursion Worksheet #2  2/15/2018 
+Fractal Tree  2/15/2018 
+Quiz  3/2/2018 
+Linear and Binary Search Widgets  3/9/2018 
+Binary Search In Class  3/13/2018 
+Quiz  3/16/2018 
+Quiz 4/6/2018 
+Quiz  4/13/2018 
+Quiz  4/20/2018 
+Quiz  4/27/2018 
+Quiz  5/4/2018 
+Quiz  5/11/2018 
+(No Final Exam in Spring if students take AP test)
