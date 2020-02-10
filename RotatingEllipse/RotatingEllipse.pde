@@ -1,30 +1,49 @@
 float rot = 0;
 float rChange = 0;
+boolean mode = false;
 public void setup()
 {
-  size(300,300);
+  size(300, 300);
   frameRate(20);
-  fill(255,0,255,100);
 }
 public void draw()
 {
   background(0);
+  if (mode == true)
+  {
+    noFill();
+    stroke(255, 0, 255, 100);
+    strokeWeight(3);
+  } else {
+    stroke(0);
+    fill(255, 0, 255, 100);
+    strokeWeight(1);
+  }
   rot = 0;
   rChange = rChange + .005;
-  myFractal(150,150,300);
+  if (rChange > PI)
+  {
+    rChange = 0;
+  }
+  myFractal(150, 150, 300);
 }
 public void myFractal(int x, int y, float diam)
 {
-  
-  translate(x,y);
+
+  translate(x, y);
   rotate(rot);
-  ellipse(0,0,diam/2,diam);
+  ellipse(0, 0, diam/2, diam);
   rotate(-rot);
-  translate(-x,-y);
+  translate(-x, -y);
   rot = rot + rChange;
-  if(diam > 10)
-    myFractal(x,y,diam/1.1);
+  if (diam > 10)
+    myFractal(x, y, diam/1.1);
 }
+public void mouseClicked()
+{
+  mode = !mode;
+}
+
 /*void setup()
 {
   size(300,300);
