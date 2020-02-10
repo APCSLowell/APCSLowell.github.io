@@ -2,7 +2,7 @@ float rot = 0;
 float rChange = 0;
 public void setup()
 {
-  size(500,500);
+  size(300,300);
   frameRate(20);
   fill(255,0,255,100);
 }
@@ -11,7 +11,7 @@ public void draw()
   background(0);
   rot = 0;
   rChange = rChange + .005;
-  myFractal(250,250,500);
+  myFractal(150,150,300);
 }
 public void myFractal(int x, int y, float diam)
 {
