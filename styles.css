@@ -1,24 +1,72 @@
-
-body {
-    background-color: rgb(200,200,200);
-    color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
-    text-align: left;
+* {
+    box-sizing: border-box;
 }
 
-#content {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+body {
+    background-image: url("/keyboard.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: "Open Sans", sans-serif;
+    margin: 0;
 }
 
 header {
-	
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    padding: 2rem;
+    text-align: right;
+    text-shadow: 1px 1px 5px #EEE;
+}
+
+header canvas {
+    padding: 1rem;
+    margin-left: 1rem;
+    border-left: 1px solid black;
+}
+
+main {
+    background-color: #CCCCE0;
+    color: rgb(0, 0, 0);
+    display: block;
+    margin: 0;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 footer {
-	font-style: italic;
-	font-size: 90%;
+    background-color: #BDC4D0;
+    margin: 0;
+    padding: 1rem;
+    font-style: italic;
+    font-size: 90%;
     text-align: left;
 }
 
+@media only screen and (max-width: 700px) {
+    header {
+        flex-direction: column;
+    }
+
+    header div {
+        text-align: center;
+    }
+
+    header canvas {
+        border-left: 0;
+        border-top: 2px solid black;
+    }
+}
