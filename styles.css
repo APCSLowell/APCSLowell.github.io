@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url("/keyboard.jpg");
+    background-image: url("./keyboard.jpg");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
