@@ -3,10 +3,10 @@ layout: default
 ---
 
 ### Course Introduction
-* Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) &#124; [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
+* Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
-* Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) &#124; [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
-* Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) &#124; [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
+* Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
+* Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
 * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course)
 * [Sign up for Piazza](http://piazza.com/lowell_high_school/fall2020/apcsa) (Your instructor will provide the class access code)
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
@@ -79,12 +79,13 @@ layout: default
 * CodingBat problem set **Don't forget to log in!** [palindrome](https://codingbat.com/home/simona1@sfusd.edu/palindrome)
 * [Palindrome Checker](https://github.com/APCSLowell/PalindromeChecker#palindrome-checker)
 * Slide Presentation: [Recursion](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing)
-* CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2), [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
+* Worksheet: [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
+* CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2), [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
-* [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
+* Choose one:[Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper) or [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
 <!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
 * Slide Presentation: [Searching](https://docs.google.com/presentation/d/1RT-GyA9vMbHkg3uhhxPDML8cseQYqYmODo2HM_o0fPU/edit?usp=sharing)
@@ -100,7 +101,6 @@ layout: default
 ### Other Worksheets
 * [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
-* [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
 * [Sorting 1](https://docs.google.com/document/d/1d8QknZbcwPjpP2Ry_VeXZQvxc-rl14jIUOyB4KZfBCo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1cpWifPt-dSpbRs3Cujz6E8BPZ6Cvk9c8JAeqk0qKOTE/edit?usp=sharing)
@@ -113,11 +113,10 @@ layout: default
 * [Help! My program runs in Processing but not on GitHub](https://github.com/APCSLowell/WebDebugging/)
 * [How to use an image as the background of your webpage](https://github.com/APCSLowell/BackgroundCSS)
 * [How to make the background of an image transparent](https://github.com/APCSLowell/gimp)
-* [A program that uses boolean variables to see if two keys are pressed simultaneously](http://apcslowell.github.io/TwoKeys/)
+* [A program that uses boolean variables to see if two keys are pressed simultaneoulsy](http://apcslowell.github.io/TwoKeys/)
 * [How to put images in your program or webpage](http://apcslowell.github.io/ImageHowTo/)
 * [How to save the users progress](https://github.com/apcslowell/SaveProgress/) using Processing's loadStrings and saveStrings functions
 * [How to change the font of your webpage using Google fonts](https://github.com/APCSLowell/FontHowTo)
-<!-- * How to [use Processing to create an animated gif](https://github.com/APCSLowell/AnimatedGIF/blob/master/README.md) -->
 * [Summer Programs in Computer Science and Engineering](https://github.com/APCSPrinciples/Summer)
 * [Letters of Recommendation](https://github.com/APCSLowell/LettersOfRec)
 * [Orbituary](http://giteon.github.io/Orbituary/) is a minimalistic orbiting Game created by former Lowell student Gideon Fox with Processing and GitHub
