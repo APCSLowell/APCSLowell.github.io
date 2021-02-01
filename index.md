@@ -3,10 +3,10 @@ layout: default
 ---
 
 ### Course Introduction
-* Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
+* Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) &#124; [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
-* Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
-* Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link)  [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
+* Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) &#124; [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
+* Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) &#124; [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
 * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course)
 * [Sign up for Piazza](http://piazza.com/lowell_high_school/fall2020/apcsa) (Your instructor will provide the class access code)
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
@@ -41,7 +41,7 @@ layout: default
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
-* Sign up for [codingbat.com](http://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher \| share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
+* Sign up for [codingbat.com](http://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
@@ -83,7 +83,7 @@ layout: default
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
-* Slide Presentation: [2d arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
+* Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
 * [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi)
 * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
