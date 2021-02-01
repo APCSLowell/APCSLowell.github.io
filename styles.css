@@ -68,5 +68,7 @@ footer {
     header canvas {
         border-left: 0;
         border-top: 2px solid black;
+        /* Disable clicking and dragging on canvas because it prevents scrolling on touchscreens */
+        pointer-events: none;
     }
 }
