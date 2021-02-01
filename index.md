@@ -85,8 +85,8 @@ layout: default
 * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
 * [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
-<!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi)
-* [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
+<!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
+<!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
 * Slide Presentation: [Searching](https://docs.google.com/presentation/d/1RT-GyA9vMbHkg3uhhxPDML8cseQYqYmODo2HM_o0fPU/edit?usp=sharing)
 * [Linear and Binary Searching Functions](https://github.com/APCSLowell/BinarySearch#linear-and-binary-searching-functions)
 * Slide Presentation: [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing)
