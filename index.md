@@ -3,7 +3,6 @@ layout: default
 ---
 
 ### Course Introduction
-
 * Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
 * Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
@@ -13,7 +12,6 @@ layout: default
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
 
 ### Java Basics
-
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
 * Slide Presentation: [Basics](https://docs.google.com/presentation/d/104z6r05zd2bPiXfwsVc7UMawLrkv6FJ641DgtN-V1XY/edit?usp=sharing)
 * CSAwesome Assignments: IMPORTANT, Make sure you are signed in and the correct course (“Lowell-CHAN-2020-21”, "Simon_Block2_APCSA_2020-21" or "Simon_Block4_APCSA_2020-21") is shown at the top left of the screen. This ensures your progress is saved and visible to your instructor.
@@ -22,14 +20,12 @@ layout: default
 
 <!-- 
 ### Introduction to Processing
-
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * [Use the light sensor in an Arduino as a controller for a Processing program](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
 * Use other buttons or sensors in an Arduino as a controller for a Processing program
 * [Make a Data Visualization in Processing](https://github.com/APCSLowell/DataVisualizationProcessing#make-a-data-visualization)
 
 ### Introduction to Git & GitHub
-
 * Slide Presentation: [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
@@ -39,14 +35,13 @@ layout: default
 -->
 
 ### Fall Semester Programming Projects with Processing & GitHub
-
 <!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) -->
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
-* Sign up for [codingbat.com](http://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher | share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
+* Sign up for [codingbat.com](http://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher \| share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
@@ -99,12 +94,10 @@ layout: default
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
 
 ### Other Slide Presentations
-
 * First Semester: [Math.random()](https://docs.google.com/presentation/d/1QIDFHsWJCcBlUY0kE6nmFPAsnpixxL_TZhuGlXAoKuA/edit?usp=sharing) [Fall Final Exam Review](https://docs.google.com/presentation/d/1B78Dw4psOG3gYXT8HU1w2dJb81rA-uI05YPsHS9HOLU/edit?usp=sharing)
-* Second Semester: <!--[Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00)--> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
+* Second Semester: <!-- [Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00) --> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
 
 ### Other Worksheets
-
 * [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
@@ -114,7 +107,6 @@ layout: default
 * [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
 
 ### Examples and other resources
-
 * [Quick Reference guide for the 2020 exam](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-java-quick-reference.pdf)
 <!-- * Installing Processing and Atom on your home [Windows](https://github.com/APCSLowell/AtomConfigWindows/blob/master/README.md), [Mac or Linux](https://atom.io/packages/processing) computer -->
 * Installing Processing and Sublime on your home [Windows](https://github.com/APCSLowell/SublimeConfigurationWindows) or [Macintosh](https://github.com/APCSLowell/SublimeConfigurationMac) computer
