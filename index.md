@@ -83,7 +83,7 @@ layout: default
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
 * CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2), [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
-* Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
+<!-- * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron) -->
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
 * Choose one:[Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper) or [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
