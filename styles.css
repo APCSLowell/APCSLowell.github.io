@@ -21,7 +21,8 @@ header {
     height: 100vh;
     padding: 2rem;
     text-align: right;
-    text-shadow: 1px 1px 5px #EEE;
+    text-shadow: 1px 1px 5px #000;
+	 color: #EEE;
 }
 
 header canvas {
