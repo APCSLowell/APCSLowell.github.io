@@ -8,6 +8,7 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+	 backdrop-filter: blur(2px);
     font-family: "Open Sans", sans-serif;
     margin: 0;
 }
