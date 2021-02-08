@@ -8,7 +8,7 @@ layout: default
 * Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
 * Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
 * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course)
-* [Sign up for Piazza](http://piazza.com/lowell_high_school/fall2020/apcsa) (Your instructor will provide the class access code)
+* [Sign up for Piazza](https://piazza.com/lowell_high_school/fall2020/apcsa) (Your instructor will provide the class access code)
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
 
 ### Java Basics
@@ -30,7 +30,7 @@ layout: default
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
 * Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
-* Practice your Unix wizardry in the mysterious land of [Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+* Practice your Unix wizardry in the mysterious land of [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * A [Sample Assignment](https://github.com/APCSLowell/SampleAssignment#sample-assignment) that uses git, GitHub and Sublime to simulate the workflow in professional software development
 -->
 
@@ -41,7 +41,7 @@ layout: default
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
-* Sign up for [codingbat.com](http://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
+* Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
@@ -113,14 +113,14 @@ layout: default
 * [Help! My program runs in Processing but not on GitHub](https://github.com/APCSLowell/WebDebugging/)
 * [How to use an image as the background of your webpage](https://github.com/APCSLowell/BackgroundCSS)
 * [How to make the background of an image transparent](https://github.com/APCSLowell/gimp)
-* [A program that uses boolean variables to see if two keys are pressed simultaneoulsy](http://apcslowell.github.io/TwoKeys/)
-* [How to put images in your program or webpage](http://apcslowell.github.io/ImageHowTo/)
+* [A program that uses boolean variables to see if two keys are pressed simultaneoulsy](https://apcslowell.github.io/TwoKeys/)
+* [How to put images in your program or webpage](https://apcslowell.github.io/ImageHowTo/)
 * [How to save the users progress](https://github.com/apcslowell/SaveProgress/) using Processing's loadStrings and saveStrings functions
 * [How to change the font of your webpage using Google fonts](https://github.com/APCSLowell/FontHowTo)
 * [Summer Programs in Computer Science and Engineering](https://github.com/APCSPrinciples/Summer)
 * [Letters of Recommendation](https://github.com/APCSLowell/LettersOfRec)
-* [Orbituary](http://giteon.github.io/Orbituary/) is a minimalistic orbiting Game created by former Lowell student Gideon Fox with Processing and GitHub
-* [Free interactive AP Java review site](http://interactivepython.org/runestone/static/JavaReview/index.html)
+* [Orbituary](https://giteon.github.io/Orbituary/) is a minimalistic orbiting Game created by former Lowell student Gideon Fox with Processing and GitHub
+* [Free interactive AP Java review site](https://interactivepython.org/runestone/static/JavaReview/index.html)
 * [Information for high school students who want to enroll at City College](https://www.ccsf.edu/en/student-services/admissions-and-registration/admissions/credit-admission/high-school-students.html)
 
 <!--
