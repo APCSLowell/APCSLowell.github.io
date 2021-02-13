@@ -81,11 +81,12 @@ layout: default
 * Slide Presentation: [Recursion](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing)
 * Worksheet: [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
-* CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2), [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
+<!-- Shortened 2021 from recursion1, recursion2 and recursion3-->
+* CodingBat problem sets, **Don't forget to log in!** [recursionOne](https://codingbat.com/home/simona1@sfusd.edu/recursionone), and [recursionTwo](https://codingbat.com/home/simona1@sfusd.edu/recursiontwo)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 <!-- * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron) -->
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
-* Choose one:[Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper) or [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life)
+* Choose one: [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life) or (more challenging) [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
 <!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
 * Slide Presentation: [Searching](https://docs.google.com/presentation/d/1RT-GyA9vMbHkg3uhhxPDML8cseQYqYmODo2HM_o0fPU/edit?usp=sharing)
