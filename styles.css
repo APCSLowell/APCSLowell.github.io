@@ -8,7 +8,7 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-	 backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
     font-family: "Open Sans", sans-serif;
     margin: 0;
 }
@@ -23,7 +23,8 @@ header {
     padding: 2rem;
     text-align: right;
     text-shadow: 1px 1px 5px #000;
-	 color: #EEE;
+    color: #EEE;
+    overflow: hidden;
 }
 
 header canvas {
@@ -37,7 +38,7 @@ main {
     color: rgb(0, 0, 0);
     display: block;
     margin: 0;
-    padding: 1rem;
+    padding: 1rem 2rem;
     overflow: hidden;
 }
 
@@ -50,12 +51,42 @@ a:hover {
 }
 
 footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-color: #BDC4D0;
+    text-align: center;
+    font-size: .75rem;
+    padding: .5rem 1rem;
     margin: 0;
-    padding: 1rem;
-    font-style: italic;
-    font-size: 90%;
-    text-align: left;
+}
+
+footer p {
+    margin: 0;
+}
+
+#author {
+    width: fit-content;
+    padding: 0 .5rem .5rem
+}
+
+#name {
+    font-size: 1rem;
+}
+
+#role {
+    font-size: .8rem;
+}
+
+#location {
+    font-size: 0.7rem;
+}
+
+#a[rel="license"], #a[rel="license"] img {
+    display: block;
+    height: 1.5rem;
+    border: 0;
 }
 
 @media only screen and (max-width: 700px) {
