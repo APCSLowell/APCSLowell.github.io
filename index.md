@@ -90,6 +90,7 @@ layout: default
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
 <!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
 * Slide Presentation: [Searching](https://docs.google.com/presentation/d/1RT-GyA9vMbHkg3uhhxPDML8cseQYqYmODo2HM_o0fPU/edit?usp=sharing)
+* CodingBat problem sets, **Don't forget to log in!** [searching](https://codingbat.com/home/simona1@sfusd.edu/searching), [searching2](https://codingbat.com/home/simona1@sfusd.edu/searching2)
 * [Linear and Binary Searching Functions](https://github.com/APCSLowell/BinarySearch#linear-and-binary-searching-functions)
 * Slide Presentation: [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing)
 * Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
