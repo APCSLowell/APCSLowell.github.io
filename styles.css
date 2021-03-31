@@ -1,24 +1,123 @@
-
-body {
-    background-color: rgb(200,200,200);
-    color: rgb(0,0,0);
-    font-family: "Open Sans", sans-serif;
-    text-align: left;
+* {
+	box-sizing: border-box;
+	font-family: "Open Sans", sans-serif;
 }
 
-#content {
-    display: block;
-    margin-left: auto;
-    margin-right: auto
+body {
+	background-image: url("./background.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	margin: 0;
 }
 
 header {
-	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100vh;
+	text-align: right;
+	text-shadow: 1px 1px 5px #000;
+	color: #EEE;
+	overflow: hidden;
+}
+
+header canvas {
+	padding: 1rem;
+	margin-left: 1rem;
+	border-left: 1px solid black;
+}
+
+main {
+	background-color: #CCCCE0;
+	color: #000;
+	display: block;
+	margin: 0;
+	padding: 1rem 2rem;
+	overflow: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 { margin-bottom: .3rem; }
+
+p, ol { margin-top: 0; }
+
+a { text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+ul {
+	margin-top: 0;
+	padding-left: 1.5rem;
+}
+
+code {
+	background-color: #B0B0B0;
+	border-radius: .3rem;
+	padding: 0 .2rem;
 }
 
 footer {
-	font-style: italic;
-	font-size: 90%;
-    text-align: left;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: #BDC4D0;
+	text-align: center;
+	font-size: .75rem;
+	padding: .5rem 1rem;
+	margin: 0;
 }
 
+footer p { margin: 0; }
+
+#author {
+	width: fit-content;
+	padding: 0 .5rem .5rem
+}
+
+#name { font-size: 1rem; }
+
+#role { font-size: .8rem; }
+
+#location { font-size: 0.7rem; }
+
+#a[rel="license"], #a[rel="license"] img {
+	display: block;
+	height: 1.5rem;
+	border: 0;
+}
+
+@media only screen and (max-width: 700px) {
+	header { flex-direction: column; }
+
+	header div { text-align: center; }
+
+	header canvas {
+		border-left: 0;
+		border-top: 2px solid black;
+		/* Disable clicking and dragging on canvas because it prevents scrolling on touchscreens */
+		pointer-events: none;
+	}
+}
+
+/* Repo Styles */
+#repo-examples {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.repo-example {
+	border-radius: .1rem;
+	min-width: 4.5rem;
+	padding: .25rem .5rem;
+	margin: .2rem;
+	background-color: #EEE;
+	color: black;
+	text-align: center;
+	font-size: 1.2rem;
+}
