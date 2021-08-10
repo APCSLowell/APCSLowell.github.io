@@ -18,7 +18,7 @@ layout: default
 	* [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html)
 	* [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html)
 
-<!-- 
+
 ### Introduction to Processing
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * [Use the light sensor in an Arduino as a controller for a Processing program](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
@@ -32,7 +32,7 @@ layout: default
 * Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
 * Practice your Unix wizardry in the mysterious land of [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * A [Sample Assignment](https://github.com/APCSLowell/SampleAssignment#sample-assignment) that uses git, GitHub and Sublime to simulate the workflow in professional software development
--->
+
 
 ### Fall Semester Programming Projects with Processing & GitHub
 <!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) -->
