@@ -23,6 +23,7 @@ layout: default
 * Sign up for a free [GitHub](https://github.com/) account.
 * Create a design for a virtual pet and display it on the web
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
+* Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
 * Animal Scales
 * Use other buttons or sensors in an Arduino as a controller for a Processing program
 
@@ -36,10 +37,10 @@ layout: default
 
 
 ### Fall Semester Programming Projects with Processing & GitHub
-<!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) -->
+<!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) 
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
-* Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
-* Sign up for a free [GitHub](https://github.com/) account.
+
+* Sign up for a free [GitHub](https://github.com/) account. -->
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
