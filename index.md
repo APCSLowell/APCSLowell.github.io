@@ -23,8 +23,9 @@ layout: default
 ### Introduction to Processing
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
-* Create a design for a Virtual Pet and display it on the web
+* Create a design for a virtual pet and display it on the web
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
+* Animal Scales
 * Use other buttons or sensors in an Arduino as a controller for a Processing program
 
 <!-- ### Introduction to Git & GitHub
