@@ -24,6 +24,7 @@ layout: default
 * Create a design for a virtual pet and display it on the web
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
 * Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
+* Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
 * Animal Scales
 * Use other buttons or sensors in an Arduino as a controller for a Processing program
 
@@ -46,7 +47,6 @@ layout: default
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
-* Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
 * [Dice](https://github.com/APCSLowell/Dice#dice)
 * Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1NsYcfs-j-KRQM9fpW65jdb73HyBrWWj_xZLnVmO4Bdw/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [arrays1](https://codingbat.com/home/simona1@sfusd.edu/arrays1), [arrays2](https://codingbat.com/home/simona1@sfusd.edu/arrays2), [arrays3](https://codingbat.com/home/simona1@sfusd.edu/arrays3), [arrays4](https://codingbat.com/home/simona1@sfusd.edu/arrays4)
