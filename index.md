@@ -22,15 +22,16 @@ layout: default
 
 ### Introduction to Processing
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
-* Virtual Pet
-* [Use the light sensor in an Arduino to interact with you pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
+* Sign up for a free [GitHub](https://github.com/) account.
+* Create a design for a Virtual Pet and display it on the web
+* [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
 * Use other buttons or sensors in an Arduino as a controller for a Processing program
 
-### Introduction to Git & GitHub
+<!-- ### Introduction to Git & GitHub
 * Slide Presentation: [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing)
-* Sign up for a free [GitHub](https://github.com/) account.
 
-<!-- * Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
+
+* Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
 * Practice your Unix wizardry in the mysterious land of [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * A [Sample Assignment](https://github.com/APCSLowell/SampleAssignment#sample-assignment) that uses git, GitHub and Sublime to simulate the workflow in professional software development -->
 
