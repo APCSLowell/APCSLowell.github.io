@@ -18,7 +18,7 @@ layout: default
 <!--  CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html) [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
 
 
-### Introduction to Processing
+### Introduction to Processing & GitHub
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
 * Create a design for a virtual pet and display it on the web
