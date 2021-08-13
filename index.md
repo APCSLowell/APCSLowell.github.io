@@ -15,8 +15,7 @@ layout: default
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
 * Slide Presentation: [Basics](https://docs.google.com/presentation/d/104z6r05zd2bPiXfwsVc7UMawLrkv6FJ641DgtN-V1XY/edit?usp=sharing)
-<!-- * CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html)
-	* [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
+<!--  CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html) [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
 
 
 ### Introduction to Processing
