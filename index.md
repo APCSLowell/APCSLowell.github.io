@@ -15,8 +15,7 @@ layout: default
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
 * Slide Presentation: [Basics](https://docs.google.com/presentation/d/104z6r05zd2bPiXfwsVc7UMawLrkv6FJ641DgtN-V1XY/edit?usp=sharing)
-<!-- * CSAwesome Assignments: IMPORTANT, Make sure you are signed in and the correct course (“Lowell-CHAN-2020-21”, "Simon_Block2_APCSA_2020-21" or "Simon_Block4_APCSA_2020-21") is shown at the top left of the screen. This ensures your progress is saved and visible to your instructor.
-	* [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html)
+<!-- * CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html)
 	* [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
 
 
