@@ -15,7 +15,7 @@ layout: default
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
 * Slide Presentation: [Basics](https://docs.google.com/presentation/d/104z6r05zd2bPiXfwsVc7UMawLrkv6FJ641DgtN-V1XY/edit?usp=sharing)
-<!--* CSAwesome Assignments: IMPORTANT, Make sure you are signed in and the correct course (“Lowell-CHAN-2020-21”, "Simon_Block2_APCSA_2020-21" or "Simon_Block4_APCSA_2020-21") is shown at the top left of the screen. This ensures your progress is saved and visible to your instructor.
+<!-- * CSAwesome Assignments: IMPORTANT, Make sure you are signed in and the correct course (“Lowell-CHAN-2020-21”, "Simon_Block2_APCSA_2020-21" or "Simon_Block4_APCSA_2020-21") is shown at the top left of the screen. This ensures your progress is saved and visible to your instructor.
 	* [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html)
 	* [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
 
@@ -30,7 +30,7 @@ layout: default
 * Slide Presentation: [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
 
-<1--* Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
+<!-- * Learn Unix [Command Line](https://github.com/APCSLowell/CommandLine) navigation
 * Practice your Unix wizardry in the mysterious land of [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * A [Sample Assignment](https://github.com/APCSLowell/SampleAssignment#sample-assignment) that uses git, GitHub and Sublime to simulate the workflow in professional software development -->
 
