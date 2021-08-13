@@ -7,7 +7,7 @@ layout: default
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
 * Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
 * Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) [Chan](https://forms.gle/d7LmKKXtHXcaigev5)
-* [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course)
+<!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](https://piazza.com/lowell_high_school/fall2020/apcsa) (Your instructor will provide the class access code)
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
 
