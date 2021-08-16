@@ -9,7 +9,7 @@ layout: default
 * Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) [Chan](https://docs.google.com/forms/d/e/1FAIpQLSejG7wu_FKCbur48zCjYZnRFvNq5GHVCNlLr74eRxJwmWcnXg/viewform?usp=sf_link)
 <!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](
-piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
+https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
 <!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
 
 ### Java Basics
