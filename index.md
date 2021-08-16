@@ -6,7 +6,7 @@ layout: default
 * Back to School night presentation: [Simon](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1hg5VXo4yfQQpgvABnhYApMlcCY6LWYGjo6gQmFlWd-k/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
 * Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
-* Please enter your contact information [Simon](https://docs.google.com/forms/d/e/1FAIpQLSfkgjYIqQeiu9zFdpE2GxxR6VQp_-Y7YrW-7Ny989f5E-poww/viewform?usp=sf_link) [Chan](https://docs.google.com/forms/d/e/1FAIpQLSejG7wu_FKCbur48zCjYZnRFvNq5GHVCNlLr74eRxJwmWcnXg/viewform?usp=sf_link)
+* Please enter your contact information [Simon](https://forms.gle/mZV1h5pngEExmYpT8) [Chan](https://docs.google.com/forms/d/e/1FAIpQLSejG7wu_FKCbur48zCjYZnRFvNq5GHVCNlLr74eRxJwmWcnXg/viewform?usp=sf_link)
 <!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](
 https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
