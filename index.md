@@ -22,7 +22,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 ### Introduction to Processing & GitHub
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
-* Create a design for a virtual pet and display it on the web
+* [Create a design for a virtual pet and display it on the web](https://github.com/APCSLowell/VirtualPet/blob/gh-pages/README.md#virtual-pet)
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
 * Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
