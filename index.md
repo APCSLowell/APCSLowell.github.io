@@ -26,7 +26,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)
 * Worksheet: [while loops & processing](https://docs.google.com/document/d/1ZksApJbxnGeUg8kRJNymhKrxPnywzvUbcGnuJ71QzBo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1JcZzqCT8QPdyrWoKBwyADMvSTMs10TUDjITqeWZJ-ZA/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
-* Animal Scales
+* Scales
 * [Use other buttons or sensors in an Arduino as a controller for a Processing program](https://github.com/APCSLowell/ArduinoController/blob/main/README.md#use-other-features-of-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)   
 
 <!-- ### Introduction to Git & GitHub
