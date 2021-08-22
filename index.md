@@ -43,6 +43,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
 
 * Sign up for a free [GitHub](https://github.com/) account. -->
+* Worksheet: [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
@@ -107,7 +108,6 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Second Semester: <!-- [Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00) --> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
 
 ### Other Worksheets
-* [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
