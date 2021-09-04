@@ -27,7 +27,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Use other buttons or sensors in an Arduino as a controller for a Processing program](https://github.com/APCSLowell/ArduinoController/blob/main/README.md#use-other-features-of-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)  
 * Worksheet: [while & for loops](https://docs.google.com/document/d/1CsvcJqJnu07nx8LvlLL5K7QuaCjTStfLqd6VEBVAjYg/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1MQN9k6EUr-TIkiThydvUVmaVqxjZb8l6P9yzj55yNeI/edit?usp=sharing)
 * Worksheet: [Nested loops](https://drive.google.com/open?id=1kzbAIebvhj0euZFYFa1WSLWWy_2cWwrq_sL0Ae4CaAw) and [solutions](https://drive.google.com/open?id=1h4wqYvWsU1qiXAKUxNh-f1lmQV4A6FC0h5kLeKnSxYE)
-* [Scales](https://github.com/APCSLowell/Scales/blob/main/README.md)   
+* [Scales](https://github.com/APCSLowell/Scales/blob/main/README.md#scales)   
  
 
 <!-- ### Introduction to Git & GitHub
