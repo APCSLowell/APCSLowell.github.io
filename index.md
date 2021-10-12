@@ -52,7 +52,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1NsYcfs-j-KRQM9fpW65jdb73HyBrWWj_xZLnVmO4Bdw/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [arrays1](https://codingbat.com/home/simona1@sfusd.edu/arrays1), [arrays2](https://codingbat.com/home/simona1@sfusd.edu/arrays2), [arrays3](https://codingbat.com/home/simona1@sfusd.edu/arrays3), [arrays4](https://codingbat.com/home/simona1@sfusd.edu/arrays4)
 * Slide Presentation: [OOP--ArraysOfObjects](https://docs.google.com/presentation/d/1dEzW5NHZsPRZKKsc-hBK0JaJQX7IDZgCw4INZ3t45Ic/edit?usp=sharing)
-* Worksheet: [Arrays of Objects](https://drive.google.com/file/d/0Bz2ZkT6qWPYTZ1FCOTZrWS1pb3M/view?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTOTUzYmJjNmYtNTllMC00NWExLThkMGItOTg2N2M0ZGI1OWNj)
+* Worksheet: [Arrays of Objects](https://drive.google.com/file/d/0Bz2ZkT6qWPYTZ1FCOTZrWS1pb3M/view?usp=sharing) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTOTUzYmJjNmYtNTllMC00NWExLThkMGItOTg2N2M0ZGI1OWNj/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-Wy6jJM5IlYZCgpN93CYCgA&rtpof=true&sd=true)
 * [Chemotaxis](https://github.com/APCSLowell/Chemotaxis#chemotaxis)
 <!-- * [Snowflake Catcher](https://github.com/APCSLowell/SnowflakeCatcher) -->
 * Slide Presentation: [OOP--InheritanceAndEncapsulation](https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing)
