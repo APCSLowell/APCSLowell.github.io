@@ -56,7 +56,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Chemotaxis](https://github.com/APCSLowell/Chemotaxis#chemotaxis)
 <!-- * [Snowflake Catcher](https://github.com/APCSLowell/SnowflakeCatcher) -->
 * Slide Presentation: [OOP--InheritanceAndEncapsulation](https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing)
-* [Starfield](https://github.com/APCSLowell/Starfield#starfield-with-an-oddball)
+* [Starfield](https://github.com/APCSLowell/Starfield/blob/master/README.md#starfield-with-an-oddball)
 * Worksheet: [Encapsulation](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZDQ3NjFmMTctNTRlOS00NjAxLTg3YjQtZTMzMGVjYjA0YjA5) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZTEwZWE1NWEtZjhmYS00M2U1LWI1YzMtZjIzZDhiZTg5Njkw)
 * CodingBat problem sets, **Don't forget to log in!** [mixedpractice1](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice1), [mixedpractice2](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice2)
 <!-- * [Old MacDonald](https://github.com/APCSLowell/OldMacDonald) -->
