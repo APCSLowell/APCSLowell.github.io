@@ -123,7 +123,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [How to save the users progress](https://github.com/apcslowell/SaveProgress/) using Processing's loadStrings and saveStrings functions
 * [How to change the font of your webpage using Google fonts](https://github.com/APCSLowell/FontHowTo)
 * [Summer Programs in Computer Science and Engineering](https://github.com/APCSPrinciples/Summer)
-* [Letters of Recommendation](https://github.com/APCSLowell/LettersOfRec)
+* [Letters of Recommendation](https://github.com/APCSLowell/LettersOfRec#letters-of-recomendation)
 * [Orbituary](https://giteon.github.io/Orbituary/) is a minimalistic orbiting Game created by former Lowell student Gideon Fox with Processing and GitHub
 * [Free interactive AP Java review site](https://interactivepython.org/runestone/static/JavaReview/index.html)
 * [Information for high school students who want to enroll at City College](https://www.ccsf.edu/en/student-services/admissions-and-registration/admissions/credit-admission/high-school-students.html)
