@@ -63,7 +63,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Inheritance](https://docs.google.com/document/d/1ylvm_83uWhTl85iidkyn4qRc9BF-5beyeODTykQ5cdc/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1uayOHYs1a5SvODXlWwoHgOx3WvU3_uMSrlhB12wyOVQ/edit?usp=sharing)
 * Slide Presentation: [Asteroids Part 1](https://docs.google.com/presentation/d/1xEIchvoA0s2BO-HB8g9wjk1jSBH8sq9Gtkij5Y7slOs/edit?usp=sharing)
 * Asteroids Game: [Part 1](https://github.com/APCSLowell/AsteroidsGame#asteroids-part-1)
-* Worksheet: [SpaceShip Design](https://drive.google.com/file/d/0Bz2ZkT6qWPYTRDJvNUJRdXFjNGs/view?usp=sharing)
+* Worksheet: [SpaceShip Design](https://docs.google.com/document/d/1W4UuAc4IZeMx4xOUtUW0CZB_QN8SpxVv9iyBRmr58lA/edit?usp=sharing)
 * Slide Presentation: [ArrayList](https://docs.google.com/presentation/d/1yDXGypcooCoeUa7GD99bYooRU1vBk63lC0G2JEOdTaY/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [arraylist1](https://codingbat.com/home/simona1@sfusd.edu/arraylist1), [arraylist2](https://codingbat.com/home/simona1@sfusd.edu/arraylist2), [morearraylist](https://codingbat.com/home/simona1@sfusd.edu/morearraylist)
 * Slide Presentation: [Asteroids Parts 2 & 3](https://docs.google.com/presentation/d/18BHIU7ZbeqyV_DKzNzGpg_vm4Oki63K7ZYkOlyPaQE8/edit?usp=sharing)
