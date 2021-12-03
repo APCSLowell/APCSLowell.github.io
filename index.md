@@ -70,7 +70,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 * Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/16_jH4fZhCwNuWvVCLZ8JIr1_7i3N9APU51zLB1YRBXs/edit?usp=sharing)
 * Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
-* Worksheet: [Review for fall final](https://drive.google.com/file/d/1gD_cKEm-DLGrImYLSYc0geVixQrC9Jjo/view?usp=sharing) and [solutions](https://drive.google.com/file/d/1ltZ5m5kBPB382Zynizhz_bR7PJ5S2gFZ/view?usp=sharing)
+* Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 ### Spring Semester Programming Projects with Processing & GitHub
 * Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/1BS9pfAvCDXkIX-XV6ghY_bPwi1IN0j_Qa6b7QZgMR3Y/edit?usp=sharing)
