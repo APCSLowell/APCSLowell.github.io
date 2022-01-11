@@ -78,7 +78,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
 * CodingBat problem set **Don't forget to log in!** [piglatin](https://codingbat.com/home/simona1@sfusd.edu/piglatin)
 * [Pig Latin](https://github.com/APCSLowell/PigLatin#pig-latin)
-* Worksheet: [Pointers](https://drive.google.com/open?id=0Bz2ZkT6qWPYTWVc2QldETjFiWmc) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdGpmaFRXemt3QjQ)
+* Worksheet: [Pointers](https://drive.google.com/open?id=0Bz2ZkT6qWPYTWVc2QldETjFiWmc) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTdGpmaFRXemt3QjQ/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-OeCG49iW6Ib9lxgNF4wHtQ&rtpof=true&sd=true)
 * CodingBat problem set **Don't forget to log in!** [palindrome](https://codingbat.com/home/simona1@sfusd.edu/palindrome)
 * [Palindrome Checker](https://github.com/APCSLowell/PalindromeChecker#palindrome-checker)
 * Slide Presentation: [Recursion](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing)
