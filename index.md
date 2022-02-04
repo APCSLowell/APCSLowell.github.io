@@ -85,7 +85,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
 <!-- Shortened 2021 from recursion1, recursion2 and recursion3-->
-* CodingBat problem sets, **Don't forget to log in!** [recursionOne](https://codingbat.com/home/simona1@sfusd.edu/recursionone), and [recursionTwo](https://codingbat.com/home/simona1@sfusd.edu/recursiontwo)
+* CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2) and [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 * Worksheet: [Recursion 2](https://docs.google.com/document/d/1JR4HwYzrhDZv6WaWr5VXO_c32EVV60lwC5lB-0LnPwM/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1J8DpipuK_-C0nEZCkTPTzzgo-bPywp8I9BdGBmfCj5Q/edit?usp=sharing)
 <!-- * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron) -->
