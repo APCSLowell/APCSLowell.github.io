@@ -88,7 +88,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [recursion1](https://codingbat.com/home/simona1@sfusd.edu/recursion1), [recursion2](https://codingbat.com/home/simona1@sfusd.edu/recursion2) and [recursion3](https://codingbat.com/home/simona1@sfusd.edu/recursion3)
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 * Worksheet: [Recursion 2](https://docs.google.com/document/d/1JR4HwYzrhDZv6WaWr5VXO_c32EVV60lwC5lB-0LnPwM/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1J8DpipuK_-C0nEZCkTPTzzgo-bPywp8I9BdGBmfCj5Q/edit?usp=sharing)
-<!-- * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron) -->
+Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
 * Choose one: [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life) or (more challenging) [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
