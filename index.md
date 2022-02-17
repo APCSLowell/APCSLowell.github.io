@@ -90,7 +90,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Recursion 2](https://docs.google.com/document/d/1JR4HwYzrhDZv6WaWr5VXO_c32EVV60lwC5lB-0LnPwM/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1J8DpipuK_-C0nEZCkTPTzzgo-bPywp8I9BdGBmfCj5Q/edit?usp=sharing)
 * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
 * Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
-* CodingBat problem set: [minesweeper](https://codingbat.com/home/simona1@sfusd.edu/minesweeper)
+* CodingBat problem set, **Don't forget to log in!** [minesweeper](https://codingbat.com/home/simona1@sfusd.edu/minesweeper)
 * Choose one: [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life) or (more challenging) [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
 <!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
