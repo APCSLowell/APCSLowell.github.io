@@ -68,8 +68,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [arraylist1](https://codingbat.com/home/simona1@sfusd.edu/arraylist1), [arraylist2](https://codingbat.com/home/simona1@sfusd.edu/arraylist2), [morearraylist](https://codingbat.com/home/simona1@sfusd.edu/morearraylist)
 * Slide Presentation: [Asteroids Parts 2 & 3](https://docs.google.com/presentation/d/18BHIU7ZbeqyV_DKzNzGpg_vm4Oki63K7ZYkOlyPaQE8/edit?usp=sharing)
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
-* Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/16_jH4fZhCwNuWvVCLZ8JIr1_7i3N9APU51zLB1YRBXs/edit?usp=sharing)
-* Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
+(https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 ### Spring Semester Programming Projects with Processing & GitHub
@@ -100,6 +99,8 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Slide Presentation: [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing)
 * Worksheet: [Sorting 1](https://docs.google.com/document/d/1d8QknZbcwPjpP2Ry_VeXZQvxc-rl14jIUOyB4KZfBCo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1cpWifPt-dSpbRs3Cujz6E8BPZ6Cvk9c8JAeqk0qKOTE/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [sorting](https://codingbat.com/home/simona1@sfusd.edu/sorting)
+* Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/16_jH4fZhCwNuWvVCLZ8JIr1_7i3N9APU51zLB1YRBXs/edit?usp=sharing)
+* Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions]
 * Worksheet: [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
 * Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
