@@ -100,7 +100,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Sorting 1](https://docs.google.com/document/d/1d8QknZbcwPjpP2Ry_VeXZQvxc-rl14jIUOyB4KZfBCo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1cpWifPt-dSpbRs3Cujz6E8BPZ6Cvk9c8JAeqk0qKOTE/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [sorting](https://codingbat.com/home/simona1@sfusd.edu/sorting)
 * Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/16_jH4fZhCwNuWvVCLZ8JIr1_7i3N9APU51zLB1YRBXs/edit?usp=sharing)
-* Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions]
+* Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-RmyPsanq-n7vg0UpauEXFg&rtpof=true&sd=true)
 * Worksheet: [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
 * Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
