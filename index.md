@@ -119,7 +119,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
  
  
 <details> 
-<summary markdown="span">Other Slide Presentations</summary>
+<summary>Other Slide Presentations</summary>
  
  
 ### Other Slide Presentations
@@ -129,7 +129,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
  
  
 <details> 
-<summary markdown="span">Other Worksheets</summary>
+<summary>Other Worksheets</summary>
  
  
 ### Other Worksheets
