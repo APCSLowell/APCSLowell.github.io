@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Course Introduction
-* [Back to School night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing)
+<!-- * [Back to School night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) -->
 * [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
 * Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
 * Please enter your contact information [Simon](https://forms.gle/mZV1h5pngEExmYpT8) [Chan](https://docs.google.com/forms/d/e/1FAIpQLSejG7wu_FKCbur48zCjYZnRFvNq5GHVCNlLr74eRxJwmWcnXg/viewform?usp=sf_link)
@@ -72,7 +72,8 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 <details> 
-<summary markdown="span">### Spring Semester Programming Projects with Processing & GitHub</summary>
+<summary markdown="span">Spring Semester Programming Projects with Processing & GitHub</summary>
+ ### Spring Semester Programming Projects with Processing & GitHub
 * Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/1BS9pfAvCDXkIX-XV6ghY_bPwi1IN0j_Qa6b7QZgMR3Y/edit?usp=sharing)
 * CodingBat problem set **Don't forget to log in!** [googlebillboard](https://codingbat.com/home/simona1@sfusd.edu/googlebillboard)
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
@@ -107,15 +108,21 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
  </details>
  
+<details> 
+<summary markdown="span">Other Slide Presentations</summary>
 ### Other Slide Presentations
 * First Semester: [Fall Final Exam Review](https://docs.google.com/presentation/d/1B78Dw4psOG3gYXT8HU1w2dJb81rA-uI05YPsHS9HOLU/edit?usp=sharing)
 * Second Semester: <!-- [Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00) --> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
-
+</details>
+ 
+<details> 
+<summary markdown="span">Other Worksheets</summary>
 ### Other Worksheets
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
-
+</details>
+ 
 ### Examples and other resources
 * [Archived 2021-2022 Course Webpage](index_archive.md)
 * [Quick Reference guide for the 2020 exam](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-java-quick-reference.pdf)
