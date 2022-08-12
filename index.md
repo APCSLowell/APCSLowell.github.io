@@ -115,6 +115,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
 
 ### Examples and other resources
+* [Archived 2021-2022 Course Webpage](index_archive.md)
 * [Quick Reference guide for the 2020 exam](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-java-quick-reference.pdf)
 <!-- * Installing Processing and Atom on your home [Windows](https://github.com/APCSLowell/AtomConfigWindows/blob/master/README.md), [Mac or Linux](https://atom.io/packages/processing) computer -->
 * Installing Processing and Sublime on your home [Windows](https://github.com/APCSLowell/SublimeConfigurationWindows) or [Macintosh](https://github.com/APCSLowell/SublimeConfigurationMac) computer
