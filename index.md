@@ -72,9 +72,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 <details> 
- <summary markdown="span">Spring Semester Programming Projects with Processing & GitHub</summary>
- 
-### Spring Semester Programming Projects with Processing & GitHub
+<summary markdown="span">### Spring Semester Programming Projects with Processing & GitHub</summary>
 * Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/1BS9pfAvCDXkIX-XV6ghY_bPwi1IN0j_Qa6b7QZgMR3Y/edit?usp=sharing)
 * CodingBat problem set **Don't forget to log in!** [googlebillboard](https://codingbat.com/home/simona1@sfusd.edu/googlebillboard)
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
@@ -107,7 +105,6 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
 * Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
-
  </details>
  
 ### Other Slide Presentations
