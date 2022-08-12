@@ -47,6 +47,10 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
+
+<details> 
+<summary markdown="span">Stuff Not Yet Updated</summary>
+ 
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * [Dice](https://github.com/APCSLowell/Dice#dice)
 * Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1NsYcfs-j-KRQM9fpW65jdb73HyBrWWj_xZLnVmO4Bdw/edit?usp=sharing)
@@ -70,7 +74,9 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 (https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
+</details>
 
+ 
 <details> 
 <summary markdown="span">Spring Semester Programming Projects with Processing & GitHub</summary>
  
