@@ -49,7 +49,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 
 <details> 
-<summary markdown="span">Stuff Not Yet Updated</summary>
+<summary markdown="span">Stuff Not Yet Updated for Fall Semester Programming Projects with Processing & GitHub</summary>
  
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * [Dice](https://github.com/APCSLowell/Dice#dice)
