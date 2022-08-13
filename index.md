@@ -72,10 +72,9 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 (https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
- 
- 
- 
- ### Spring Semester Programming Projects with Processing & GitHub
+
+
+### Spring Semester Programming Projects with Processing & GitHub
 * Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/1BS9pfAvCDXkIX-XV6ghY_bPwi1IN0j_Qa6b7QZgMR3Y/edit?usp=sharing)
 * CodingBat problem set **Don't forget to log in!** [googlebillboard](https://codingbat.com/home/simona1@sfusd.edu/googlebillboard)
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
@@ -119,6 +118,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
+
 -->
 
  
