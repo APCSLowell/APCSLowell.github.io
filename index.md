@@ -48,7 +48,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 
-<details> 
+(ALT+255)<details> 
 <summary markdown="span">Stuff Not Yet Updated Yet</summary>
  
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
