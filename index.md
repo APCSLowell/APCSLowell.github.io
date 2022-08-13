@@ -5,8 +5,8 @@ layout: default
 ### Course Introduction
 <!-- * [Back to School night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) -->
 * [Course Syllabus](https://docs.google.com/document/d/1jJ3meI3F2s8PCuQ1sx0G20qfNCOffRgh0zpdwDNdBrc/edit?usp=sharing)
-* [Intro Slide Presentations] (https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
-* [Please enter your contact information] (https://docs.google.com/forms/d/e/1FAIpQLSe9NkXClOlAMPNb7RpT_R_fuHHMEjHdFtyimG5VU2jcXYX2JQ/viewform?usp=sf_link)
+* [Intro Slide Presentations](https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
+* [Please enter your contact information](https://docs.google.com/forms/d/e/1FAIpQLSe9NkXClOlAMPNb7RpT_R_fuHHMEjHdFtyimG5VU2jcXYX2JQ/viewform?usp=sf_link)
 <!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](
 https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
