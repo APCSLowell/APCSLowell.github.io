@@ -72,7 +72,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 (https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
--->
+--->
 
 <!--
 ### Spring Semester Programming Projects with Processing & GitHub
@@ -108,20 +108,20 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
 * Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
- -->
+--->
 
 <!--
 ### Other Slide Presentations
 * First Semester: [Fall Final Exam Review](https://docs.google.com/presentation/d/1B78Dw4psOG3gYXT8HU1w2dJb81rA-uI05YPsHS9HOLU/edit?usp=sharing)
 * Second Semester: <!-- [Raspberry Pi](https://drive.google.com/open?id=0Bz2ZkT6qWPYTQk85WklyVml2M00) --> [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing) [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing) [Important Changes to 2020 exam](https://docs.google.com/presentation/d/1qch2LPYgvxIkEo6Iijbs4Mg96afZ5UoH9y7JBaAOuL4/edit?usp=sharing)
- -->
+--->
 
 <!--
 ### Other Worksheets
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
--->
+--->
 
  
 ### Examples and other resources
