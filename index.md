@@ -68,12 +68,11 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [arraylist1](https://codingbat.com/home/simona1@sfusd.edu/arraylist1), [arraylist2](https://codingbat.com/home/simona1@sfusd.edu/arraylist2), [morearraylist](https://codingbat.com/home/simona1@sfusd.edu/morearraylist)
 * Slide Presentation: [Asteroids Parts 2 & 3](https://docs.google.com/presentation/d/1akG1I7TVbLFR-d_KNiAOm4p-lQvF8F7BvTy460TTOU0/edit?usp=sharing)
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
-(https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
 
 
 ### Spring Semester Programming Projects with Processing & GitHub
-* Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/1BS9pfAvCDXkIX-XV6ghY_bPwi1IN0j_Qa6b7QZgMR3Y/edit?usp=sharing)
+* Slide Presentation: [APJavaStrings](https://docs.google.com/presentation/d/15L0nvRrX5IK2GAGML06tgwUt_aqs3XDpg-TdNXuHs_w/edit?usp=sharing)
 * CodingBat problem set **Don't forget to log in!** [googlebillboard](https://codingbat.com/home/simona1@sfusd.edu/googlebillboard)
 * [Google Billboard](https://github.com/APCSLowell/GoogleBillboard#google-billboard)
 * CodingBat problem set **Don't forget to log in!** [piglatin](https://codingbat.com/home/simona1@sfusd.edu/piglatin)
@@ -81,7 +80,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Pointers](https://drive.google.com/open?id=0Bz2ZkT6qWPYTWVc2QldETjFiWmc) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTdGpmaFRXemt3QjQ/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-OeCG49iW6Ib9lxgNF4wHtQ&rtpof=true&sd=true)
 * CodingBat problem set **Don't forget to log in!** [palindrome](https://codingbat.com/home/simona1@sfusd.edu/palindrome)
 * [Palindrome Checker](https://github.com/APCSLowell/PalindromeChecker#palindrome-checker)
-* Slide Presentation: [Recursion](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing)
+* Slide Presentation: [Recursion](https://docs.google.com/presentation/d/1yyVA3MUZAeF0oyh2mQKDy85bup7RazPjilfIEyETyHo/edit?usp=sharing)
 * Worksheet: [Recursion 1](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) has solutions on the back
 * [Sierpinski Triangle](https://github.com/APCSLowell/SierpinskiTriangle#sierpinski-triangle)
 <!-- Shortened 2021 from recursion1, recursion2 and recursion3-->
@@ -89,21 +88,21 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Create your own Fractal](https://github.com/APCSLowell/OriginalFractal#create-your-own-fractal)
 * Worksheet: [Recursion 2](https://docs.google.com/document/d/1JR4HwYzrhDZv6WaWr5VXO_c32EVV60lwC5lB-0LnPwM/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1J8DpipuK_-C0nEZCkTPTzzgo-bPywp8I9BdGBmfCj5Q/edit?usp=sharing)
 * Choose one: [Fractal Tree](https://github.com/APCSLowell/FractalTree#fractal-tree) or [Tendron](https://github.com/APCSLowell/Tendron/blob/master/README.md#tendron)
-* Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/1_rk3nKsde5bQGs-36ijMh4wmNN3RtqFpNL59R6CnC-c/edit?usp=sharing)
+* Slide Presentation: [2D arrays](https://docs.google.com/presentation/d/13XWQeSkqx2UL_SHNJJ_jUWmyCplEY3MDIJU4jva7ADU/edit?usp=sharing)
 * CodingBat problem set, **Don't forget to log in!** [minesweeper](https://codingbat.com/home/simona1@sfusd.edu/minesweeper)
 * Choose one: [Game of Life](https://github.com/APCSLowell/GameOfLife/blob/main/README.md#game-of-life) or (more challenging) [Minesweeper](https://github.com/APCSLowell/Minesweeper#minesweeper)
 <!-- * [Raspberry Pi](https://github.com/APCSLowell/RaspberryPi) -->
 <!-- * [Binary Search In Class Exercise](https://github.com/APCSLowell/BinarySearchInClassExercise/blob/master/README.md) -->
-* Slide Presentation: [Searching](https://docs.google.com/presentation/d/1RT-GyA9vMbHkg3uhhxPDML8cseQYqYmODo2HM_o0fPU/edit?usp=sharing)
+* Slide Presentation: [Searching](https://docs.google.com/presentation/d/1mT7Cu9inbjTpboXgNgRhcWmHOTarMCG_lj_szto8Bjw/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [searching](https://codingbat.com/home/simona1@sfusd.edu/searching), [searching2](https://codingbat.com/home/simona1@sfusd.edu/searching2)
 * [Linear and Binary Searching Functions](https://github.com/APCSLowell/BinarySearch#linear-and-binary-searching-functions)
-* Slide Presentation: [Sorting](https://docs.google.com/presentation/d/10LtPcP7DGoZVvtN0HFcx0eSIxjJkOzD0gsPeOr2-BK8/edit?usp=sharing)
+* Slide Presentation: [Sorting](https://docs.google.com/presentation/d/1_03Rwt1FRNCf7bNMKCg4JeRu5gdX3a2TqNU8u8eGNFQ/edit?usp=sharing)
 * Worksheet: [Sorting 1](https://docs.google.com/document/d/1d8QknZbcwPjpP2Ry_VeXZQvxc-rl14jIUOyB4KZfBCo/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1cpWifPt-dSpbRs3Cujz6E8BPZ6Cvk9c8JAeqk0qKOTE/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [sorting](https://codingbat.com/home/simona1@sfusd.edu/sorting)
-* Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/16_jH4fZhCwNuWvVCLZ8JIr1_7i3N9APU51zLB1YRBXs/edit?usp=sharing)
+* Slide Presentation: [ForEachLoops](https://docs.google.com/presentation/d/1d3BVMvZL4Ve6n_HfOuZj6OdUDtHkMi5jb_qYYayBkDU/edit?usp=sharing)
 * Worksheet: [For each loops](https://drive.google.com/open?id=0Bz2ZkT6qWPYTMDliNTYyNDUtZjNhZi00ZDE3LWIxNjItOTgxNTExYTk0MjNj) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-RmyPsanq-n7vg0UpauEXFg&rtpof=true&sd=true)
 * Worksheet: [Sorting 2](https://docs.google.com/document/d/1f6L_QYLCsx3da0xhXgMtpQvzrWdz35IZ8ovGm2JM4mI/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/103BJ3XotG82HrGF_-w9RwTCoinZP6ZkEKUMhnYSbiXk/edit?usp=sharing)
-* Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1OCWfsoU2-0yzh1yUxgZW-K7xQedB0STDw-hNDqWDJEg/edit?usp=sharing)
+* Slide Presentation: [AP exam](https://docs.google.com/presentation/d/1XgsObg5lu5ZuDEW7Ykbhu8DjBA8o1Z2RlrUTpLN-20E/edit?usp=sharing)
 * [After the AP exam](https://github.com/APCSLowell/AfterTheAP#after-the-ap-exam)
 
 
