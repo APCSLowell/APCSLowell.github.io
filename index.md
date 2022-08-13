@@ -4,13 +4,13 @@ layout: default
 
 ### Course Introduction
 <!-- * [Back to School night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) -->
-* [Course Syllabus](https://docs.google.com/document/d/1FomZN5UfOP03Y6HIJ4dCv0vBylvVZbaG_Zms38AtPA0/edit?usp=sharing)
-* Intro Slide Presentations: [Simon](https://docs.google.com/presentation/d/1N7W0sG2_A9CCflXVZXWBbp4XcHq2WT22FvpFBEtNUWA/edit?usp=sharing) [Chan](https://docs.google.com/presentation/d/1ti4vvcxxjwV-nyiej6mOH0ZHrv9PYBb-c0vawxuK-BU/edit?usp=sharing)
-* Please enter your contact information [Simon](https://forms.gle/mZV1h5pngEExmYpT8) [Chan](https://docs.google.com/forms/d/e/1FAIpQLSejG7wu_FKCbur48zCjYZnRFvNq5GHVCNlLr74eRxJwmWcnXg/viewform?usp=sf_link)
+* [Course Syllabus](https://docs.google.com/document/d/1jJ3meI3F2s8PCuQ1sx0G20qfNCOffRgh0zpdwDNdBrc/edit?usp=sharing)
+* [Intro Slide Presentations] (https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
+* [Please enter your contact information] (https://docs.google.com/forms/d/e/1FAIpQLSe9NkXClOlAMPNb7RpT_R_fuHHMEjHdFtyimG5VU2jcXYX2JQ/viewform?usp=sf_link)
 <!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](
 https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
-<!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with the appropriate join code: Block 1: 9VZAR7, Block 2: 22KRPP, Block 4: MYRE6N, Block 6: P2NNJ6 -->
+<!-- * Sign up for my AP Classroom at [https://myap.collegeboard.org/login](https://myap.collegeboard.org/login) with join code: D4AVA3 -->
 
 ### Java Basics
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
@@ -45,7 +45,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
 * Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
-* Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) or [simona1@sfusd.edu](mailto:simona1@sfusd.edu)) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
+* Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 
 <details> 
