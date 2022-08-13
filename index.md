@@ -123,7 +123,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
 </details>
- 
+
  
 ### Examples and other resources
 * [Archived 2021-2022 Course Webpage](index_archive.md)
