@@ -49,14 +49,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 
 <details> 
-<summary>Stuff Not Yet Updated Yet
- 
- 
- 
- </summary>
- 
- 
- 
+<summary markdown = span>Stuff Not Yet Updated Yet</summary>
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
 * [Dice](https://github.com/APCSLowell/Dice#dice)
 * Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1NsYcfs-j-KRQM9fpW65jdb73HyBrWWj_xZLnVmO4Bdw/edit?usp=sharing)
@@ -127,9 +120,6 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * [Practice with Classes](https://drive.google.com/open?id=0Bz2ZkT6qWPYTTXNkTmk1SVRoVDg) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTRjUzSDdtX0otT2M)
 * [Recursion 2](https://docs.google.com/document/d/1QdM5uxGaSCQyeIFt7S5uoVWYnznqIFtiCglEn80zcJw/edit?usp=sharing) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZjk0M2EyN2QtNWVhMi00YmUzLWI2YzgtY2M2NDZlMjljYzA0)
 * [Linear and Binary Search](https://drive.google.com/open?id=0Bz2ZkT6qWPYTNVZEbTNoQ1k2eW8) and [solutions](https://drive.google.com/file/d/1sQUyA7lxbDDkzHkgIAGOc2XWyc6-29Vf/view?usp=sharing)
- 
- 
- 
 </details>
  
  
