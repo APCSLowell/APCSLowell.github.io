@@ -49,7 +49,12 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
 
 <details> 
-<summary>Stuff Not Yet Updated for Fall Semester Programming Projects with Processing & GitHub</summary>
+<summary>Stuff Not Yet Updated for Fall Semester Programming Projects with Processing & GitHub
+ 
+ 
+ 
+ </summary>
+ 
  
  
 * Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
@@ -75,6 +80,9 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 (https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
+ 
+ 
+ 
 </details>
 
  
