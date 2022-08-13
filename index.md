@@ -82,11 +82,6 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
  
  
- 
-</details>
-
- 
-<details> 
 <summary>Spring Semester Programming Projects with Processing & GitHub</summary>
  
  
