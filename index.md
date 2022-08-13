@@ -15,12 +15,12 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 ### Java Basics
 * [Four 4s challenge](https://apcslowell.github.io/APJavaBasics/)
 * [Variables](https://apcslowell.github.io/APJavaVariables/)
-* Slide Presentation: [Basics](https://docs.google.com/presentation/d/104z6r05zd2bPiXfwsVc7UMawLrkv6FJ641DgtN-V1XY/edit?usp=sharing)
+* Slide Presentation: [Basics](https://docs.google.com/presentation/d/1dW8a-f1UdXV8hgziJg_f8XWj0HYEVr7RTxxxN0fcRVM/edit?usp=sharing)
 <!--  CSAwesome Assignments:  [Unit 1](https://runestone.academy/runestone/assignments/chooseAssignment.html) [Units 2 & 3](https://runestone.academy/runestone/assignments/chooseAssignment.html) -->
 
 
 ### Introduction to Processing & GitHub
-* Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing)
+* Slide Presentation: [apjavaProcessing](https://docs.google.com/presentation/d/1eWaXLIN25ESY1guw9W0WocvolCZ8mzTO8hC69jWzDpk/edit?usp=sharing)
 * Sign up for a free [GitHub](https://github.com/) account.
 * [Create a design for a virtual pet and display it on the web](https://github.com/APCSLowell/VirtualPet/blob/gh-pages/README.md#virtual-pet)
 * [Use the light sensor in an Arduino to interact with your pet](https://github.com/APCSLowell/LightSensorController#use-an-adafruit-circuit-playground-as-an-input-device-in-a-processing-program)   
@@ -41,32 +41,32 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 
 ### Fall Semester Programming Projects with Processing & GitHub
 <!-- * [Original Design](https://github.com/APCSLowell/OriginalDesign) -->
-* Slide Presentation: [Math.random()](https://docs.google.com/presentation/d/1QIDFHsWJCcBlUY0kE6nmFPAsnpixxL_TZhuGlXAoKuA/edit?usp=sharing)
+* Slide Presentation: [Math.random()](https://docs.google.com/presentation/d/1U7DH8_1SblU143uHBmQe_auXeJYVl8polM3vyZJvr9c/edit?usp=sharing)
 * Worksheet: [Math.random](https://drive.google.com/open?id=0Bz2ZkT6qWPYTSU84X3FSOGYwdFU) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdVo1enRuRWhRbkU)
 * [Lightning](https://github.com/APCSLowell/Lightning#lightning)
-* Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1h23rmmjf-m9RVetcApkamyMIgr5rNTV5gt8K5GbjBnA/edit?usp=sharing)
+* Slide Presentation: [apjavaCodingbat](https://docs.google.com/presentation/d/1t7x5Y8zfRXv_yjZT2zkbgTSRyOnPQ4ADHm86t8SW52c/edit?usp=sharing)
 * Sign up for [codingbat.com](https://www.codingbat.com). In _Prefs_, put your instructor's email address ([chanr@sfusd.edu](mailto:chanr@sfusd.edu) in the _Teacher &#124; share to_ field. In the _Memo_ field enter **_your block, last name, first name_**
 * CodingBat problem sets, **Don't forget to log in!** [functions1](https://codingbat.com/home/simona1@sfusd.edu/functions1), [functions2](https://codingbat.com/home/simona1@sfusd.edu/functions2), [functions3](https://codingbat.com/home/simona1@sfusd.edu/functions3)
-* Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/13Ozn2xajO_juZfbm7I6gn0zM9p0leSTGDMBwUl2kPAQ/edit?usp=sharing)
+* Slide Presentation: [OOP--Classes](https://docs.google.com/presentation/d/1jK3fDuIHG0IIF9B0mVN2QwcISUYry3b9ksE-jWsA1Ck/edit?usp=sharing)
 * [Dice](https://github.com/APCSLowell/Dice#dice)
-* Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1NsYcfs-j-KRQM9fpW65jdb73HyBrWWj_xZLnVmO4Bdw/edit?usp=sharing)
+* Slide Presentation: [Arrays](https://docs.google.com/presentation/d/1GwFd2gQ_2ACrXuank0SB_Y8uKaT6aa5L_QlQfnri3D8/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [arrays1](https://codingbat.com/home/simona1@sfusd.edu/arrays1), [arrays2](https://codingbat.com/home/simona1@sfusd.edu/arrays2), [arrays3](https://codingbat.com/home/simona1@sfusd.edu/arrays3), [arrays4](https://codingbat.com/home/simona1@sfusd.edu/arrays4)
-* Slide Presentation: [OOP--ArraysOfObjects](https://docs.google.com/presentation/d/1dEzW5NHZsPRZKKsc-hBK0JaJQX7IDZgCw4INZ3t45Ic/edit?usp=sharing)
+* Slide Presentation: [OOP--ArraysOfObjects](https://docs.google.com/presentation/d/1yHCTYArmvzw05AZ2kxCbnruFcDlKpFdHZ1Mhl8C_NyI/edit?usp=sharing)
 * Worksheet: [Arrays of Objects](https://docs.google.com/document/d/0Bz2ZkT6qWPYTZ1FCOTZrWS1pb3M/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-2uVN58MfAGTLUnabRnvwJg&rtpof=true&sd=true) and [solutions](https://docs.google.com/document/d/0Bz2ZkT6qWPYTOTUzYmJjNmYtNTllMC00NWExLThkMGItOTg2N2M0ZGI1OWNj/edit?usp=sharing&ouid=108159973338688428341&resourcekey=0-Wy6jJM5IlYZCgpN93CYCgA&rtpof=true&sd=true)
 * [Chemotaxis](https://github.com/APCSLowell/Chemotaxis#chemotaxis)
 <!-- * [Snowflake Catcher](https://github.com/APCSLowell/SnowflakeCatcher) -->
-* Slide Presentation: [OOP--InheritanceAndEncapsulation](https://docs.google.com/presentation/d/1Eldw10Y6tP7Ru6pjaCcZPhm5vxjnKjVrWLB8qT5IiF0/edit?usp=sharing)
+* Slide Presentation: [OOP--InheritanceAndEncapsulation](https://docs.google.com/presentation/d/1swc1fjt9gKAB_DjhuledIHVOtEJMHrVwRcqHfbySbYw/edit?usp=sharing)
 * [Starfield](https://github.com/APCSLowell/Starfield/blob/master/README.md#starfield-with-an-oddball)
 * Worksheet: [Encapsulation](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZDQ3NjFmMTctNTRlOS00NjAxLTg3YjQtZTMzMGVjYjA0YjA5) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZTEwZWE1NWEtZjhmYS00M2U1LWI1YzMtZjIzZDhiZTg5Njkw)
 * CodingBat problem sets, **Don't forget to log in!** [mixedpractice1](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice1), [mixedpractice2](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice2)
 <!-- * [Old MacDonald](https://github.com/APCSLowell/OldMacDonald) -->
 * Worksheet: [Inheritance](https://docs.google.com/document/d/1ylvm_83uWhTl85iidkyn4qRc9BF-5beyeODTykQ5cdc/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1uayOHYs1a5SvODXlWwoHgOx3WvU3_uMSrlhB12wyOVQ/edit?usp=sharing)
-* Slide Presentation: [Asteroids Part 1](https://docs.google.com/presentation/d/1xEIchvoA0s2BO-HB8g9wjk1jSBH8sq9Gtkij5Y7slOs/edit?usp=sharing)
+* Slide Presentation: [Asteroids Part 1](https://docs.google.com/presentation/d/1Ow8zgl_2hzfCh7a5dqXPfO8QMKGbTinp0uZpiCZoL68/edit?usp=sharing)
 * Asteroids Game: [Part 1](https://github.com/APCSLowell/AsteroidsGame#asteroids-part-1)
 * Worksheet: [SpaceShip Design](https://docs.google.com/document/d/1W4UuAc4IZeMx4xOUtUW0CZB_QN8SpxVv9iyBRmr58lA/edit?usp=sharing)
-* Slide Presentation: [ArrayList](https://docs.google.com/presentation/d/1yDXGypcooCoeUa7GD99bYooRU1vBk63lC0G2JEOdTaY/edit?usp=sharing)
+* Slide Presentation: [ArrayList](https://docs.google.com/presentation/d/1OUMDwdwkDoFvPbmXECc76EgkQAz3za4gHSVRwIHXUe4/edit?usp=sharing)
 * CodingBat problem sets, **Don't forget to log in!** [arraylist1](https://codingbat.com/home/simona1@sfusd.edu/arraylist1), [arraylist2](https://codingbat.com/home/simona1@sfusd.edu/arraylist2), [morearraylist](https://codingbat.com/home/simona1@sfusd.edu/morearraylist)
-* Slide Presentation: [Asteroids Parts 2 & 3](https://docs.google.com/presentation/d/18BHIU7ZbeqyV_DKzNzGpg_vm4Oki63K7ZYkOlyPaQE8/edit?usp=sharing)
+* Slide Presentation: [Asteroids Parts 2 & 3](https://docs.google.com/presentation/d/1akG1I7TVbLFR-d_KNiAOm4p-lQvF8F7BvTy460TTOU0/edit?usp=sharing)
 * Continuing the Asteroids Game: [Part 2](https://github.com/APCSLowell/Asteroids2#asteroids-part-2) [Part 3](https://github.com/APCSLowell/Asteroids3#asteroids-part-3)
 (https://drive.google.com/open?id=0Bz2ZkT6qWPYTNmZmMWUyMjMtYzRmZC00YzdkLTkwNjQtNzQ5MjVmODNhNjdm)
 * Worksheet: [Review for fall final](https://docs.google.com/document/d/1S11g5bvyo3VBmcWehHtfPxPSICV1h6guHTVbUHiKLmQ/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1WM6QRWs0W8cqmeClYITkPeSsuG16PUflz17uLVOQ6Rk/edit?usp=sharing)
