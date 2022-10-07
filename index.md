@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### Course Introduction
+* [8th Grade Night Presenation](https://docs.google.com/presentation/d/1hvNR-7O2xrO2HkLfoFMS5jWQ4QSTdv9m-vXTorBZ_BU/edit?usp=sharing)
 * [Back to School night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/1jJ3meI3F2s8PCuQ1sx0G20qfNCOffRgh0zpdwDNdBrc/edit?usp=sharing)
 * [Intro Slide Presentations](https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
