@@ -3,11 +3,11 @@ layout: default
 ---
 
 ### Course Introduction
-* [8th Grade Night Presentation](https://docs.google.com/presentation/d/1hvNR-7O2xrO2HkLfoFMS5jWQ4QSTdv9m-vXTorBZ_BU/edit?usp=sharing)
-* [Back to School Night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing)
+<!-- * [8th Grade Night Presentation](https://docs.google.com/presentation/d/1hvNR-7O2xrO2HkLfoFMS5jWQ4QSTdv9m-vXTorBZ_BU/edit?usp=sharing) -->
+<!-- * [Back to School Night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) -->
 * [Course Syllabus](https://docs.google.com/document/d/19jZoI2l46LKBNF0GcnbzzTqEN8XOWPozDbpcxr4MXQY/edit?usp=sharing)
 * [Intro Slide Presentations](https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
-* [Please enter your contact information](https://docs.google.com/forms/d/e/1FAIpQLSfHm9M1Gzun-Nk-mJyBZhBXiv8ik0yItu-JOAjWAtXZoLVfXA/viewform?usp=sf_link)
+* [Please enter your contact information](https://forms.gle/NA7xPvTs3wK6e2ce7)
 <!-- * [Register for your CSAwesome class](https://runestone.academy/runestone/default/user/register) (Your instructor will provide the name of the course) -->
 * [Sign up for Piazza](
 https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provide the class access code)
