@@ -4,7 +4,7 @@ layout: default
 
 ### Course Introduction
 <!-- * [8th Grade Night Presentation](https://docs.google.com/presentation/d/1hvNR-7O2xrO2HkLfoFMS5jWQ4QSTdv9m-vXTorBZ_BU/edit?usp=sharing) -->
-<!-- * [Back to School Night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing) -->
+* [Back to School Night presentation](https://docs.google.com/presentation/d/1ZtnVADnaV0Zw3bwaMI-afDTKzfhJmo93TUDrQmH4tI8/edit?usp=sharing)
 * [Course Syllabus](https://docs.google.com/document/d/19jZoI2l46LKBNF0GcnbzzTqEN8XOWPozDbpcxr4MXQY/edit?usp=sharing)
 * [Intro Slide Presentations](https://docs.google.com/presentation/d/1n-AMkqXPg63QfbMCoench9uYc3RVrwcT4IavPyGZ9TA/edit?usp=sharing)
 * [Please enter your contact information](https://forms.gle/NA7xPvTs3wK6e2ce7)
