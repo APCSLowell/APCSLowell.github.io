@@ -59,7 +59,7 @@ https://piazza.com/lowell_high_school/fall2021/apcs) (Your instructor will provi
 * Slide Presentation: [OOP--InheritanceAndEncapsulation](https://docs.google.com/presentation/d/1swc1fjt9gKAB_DjhuledIHVOtEJMHrVwRcqHfbySbYw/edit?usp=sharing)
 * [Starfield](https://github.com/APCSLowell/Starfield/blob/master/README.md#starfield-with-an-oddball)
 * Worksheet: [Encapsulation](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZDQ3NjFmMTctNTRlOS00NjAxLTg3YjQtZTMzMGVjYjA0YjA5) and [solutions](https://drive.google.com/open?id=0Bz2ZkT6qWPYTZTEwZWE1NWEtZjhmYS00M2U1LWI1YzMtZjIzZDhiZTg5Njkw)
-* CodingBat problem sets, **Don't forget to log in!** [mixedpractice1](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice1), [mixedpractice2](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice2)
+* CodingBat problem sets, **Don't forget to log in!** [mixedpracticea](https://codingbat.com/home/chanr@sfusd.edu/mixedpracticea), [mixedpractice2](https://codingbat.com/home/simona1@sfusd.edu/mixedpractice2)
 <!-- * [Old MacDonald](https://github.com/APCSLowell/OldMacDonald) -->
 * Worksheet: [Inheritance](https://docs.google.com/document/d/1ylvm_83uWhTl85iidkyn4qRc9BF-5beyeODTykQ5cdc/edit?usp=sharing) and [solutions](https://docs.google.com/document/d/1uayOHYs1a5SvODXlWwoHgOx3WvU3_uMSrlhB12wyOVQ/edit?usp=sharing)
 * Slide Presentation: [Asteroids Part 1](https://docs.google.com/presentation/d/1Ow8zgl_2hzfCh7a5dqXPfO8QMKGbTinp0uZpiCZoL68/edit?usp=sharing)
